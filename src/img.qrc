@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>number/1.ico</file>
+        <file>number/2.ico</file>
+        <file>number/3.ico</file>
+        <file>number/6.ico</file>
+        <file>number/5.ico</file>
+        <file>number/4.ico</file>
+        <file>number/8.ico</file>
+        <file>number/7.ico</file>
+        <file>number/9.ico</file>
+        <file>image/last.png</file>
+        <file>image/mark.ico</file>
+        <file>image/next.png</file>
+        <file>image/pause.png</file>
+        <file>image/replay.png</file>
+        <file>image/delete.png</file>
+        <file>image/music.png</file>
+        <file>image/help.png</file>
+        <file>music/1.mp3</file>
+        <file>image/choose.png</file>
+    </qresource>
+</RCC>
